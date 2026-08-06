@@ -16,7 +16,7 @@ const fontMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL(
-    process.env.NEXT_PUBLIC_SITE_URL ?? "https://securelock.vercel.app"
+    process.env.NEXT_PUBLIC_SITE_URL ?? "https://secure-lock-ashy.vercel.app"
   ),
   title: {
     default: "SecureLock — Zero-Knowledge Password Manager",
